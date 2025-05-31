@@ -1,4 +1,6 @@
 # Blackjack
+A simple C++ program that simulates Blacjack! This is an object-oriented projcet that features classes for cards, players, and the game flow. All of this combiend allows the user to play a single=player game of blackjack against a computer dealer! Info on the classes are down below, as well as each file having numerous comments explaining functionality.
+
 
 Card.cpp:
 Represents a single playing card with suit and rank. Includes methods to get the card's value (handling face cards and aces) and to display the card.
